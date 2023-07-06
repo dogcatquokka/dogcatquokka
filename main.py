@@ -1,5 +1,7 @@
 import random
 
-for i range(5) :
+print("로또 추첨 ^^^^^^^")
+
+for i in range(5) :
     lotto = random.sample(range(1,46),6)
     print(lotto)
