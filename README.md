@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
  
 <div align="center"> 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70&section=header&text=dogcatquokka)
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=B091A7&height=150&section=header&text=dogcatquokka&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=B091A7&height=150&section=header&text=dogcatquokka&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ###  :wave: Welcome my github profile !
 
