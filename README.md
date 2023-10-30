@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
+ <!--
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B091A7&height=150&section=header&text=dogcatquokka&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62" alt="header"/>
-</p>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=B091A7&height=150&section=header&text=dogcatquokka&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62" alt="header"/> -->
+<!-- </p> -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70&width=435&lines=H%2C+I%60m+dog;" alt="header">
 </p>
 
 ### :wave: Welcome to my GitHub profile! 
