@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
  <!--
 <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=B091A7&height=150&section=header&text=dogcatquokka&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62" alt="header"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=B091A7&height=150&section=header&text=dogcatquokka&fontColor=%23ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62" alt="header"/>
 </p>
+
 
 
 
