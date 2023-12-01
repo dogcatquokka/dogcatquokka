@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
+[![Mylog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://dogcatquokka.github.io)
 </div>
 
 ### :clipboard: Once I've Used 
