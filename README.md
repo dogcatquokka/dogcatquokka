@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <!--
+
+<p align="center">
+ 
 <p align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=B091A7&height=150&section=header&text=dogcatquokka&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62" alt="header"/>
 </p>
@@ -24,7 +27,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 <br /><br /><br />
 
-
+</div>
 ### :wave: Welcome to my GitHub profile! 
 
  
