@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 <br /><br /><br />
 
-
+</div>
 ### :wave: Welcome to my GitHub profile! 
 
  
