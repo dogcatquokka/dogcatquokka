@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<!--
+
+
+<!-- 
 **dogcatquokka/dogcatquokka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,33 +14,30 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <!--
+- ⚡ Fun fact: ... -->
 
-<p align="center">
+
+
  
-<p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=B091A7&height=150&section=header&text=dogcatquokka&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62" alt="header"/>
-</p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I%60m+dogcatquokka;Developers+Trainee)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I%60m+dogcatquokka;Developers+Train)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 <br /><br /><br />
 
-</div>
-### :wave: Welcome to my GitHub profile! 
+
+### 👋 Welcome to my GitHub profile! 
 
  
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
   
 [![Mylog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://dogcatquokka.github.io)
-</div>
 
-### :clipboard: Once I've Used 
+
+### 📋 Once I've Used 
   
  <br/>
   
