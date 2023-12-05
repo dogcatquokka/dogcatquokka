@@ -27,12 +27,9 @@ Here are some ideas to get you started:
 <!-- </p> -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+d%60o+gcatquokka;Developers+Trainee)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+dogcatquokka;Developers+Trainee)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 <br /><br /><br />
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70&width=435&lines=H%2C+I%60m+dog;" alt="header">
-</p>
 
 ### :wave: Welcome to my GitHub profile! 
 
