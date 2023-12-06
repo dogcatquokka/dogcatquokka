@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 
 <!-- 
@@ -20,14 +18,14 @@ Here are some ideas to get you started:
 
  
 
+<div align="center">
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I%60m+dogcatquokka;Developers+Train)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I%60m+dogcatquokka;Developers+Trainee)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 <br /><br /><br />
 
-
-### 👋 Welcome to my GitHub profile! 
+### Hi there 👋
+### 👋 Welcome to my GitHub profile! s
 
  
   <br/>
@@ -37,7 +35,7 @@ Here are some ideas to get you started:
 [![Mylog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://dogcatquokka.github.io)
 
 
-### 📋 Once I've Used 
+### 📋Once I've Used 
   
  <br/>
   
@@ -52,3 +50,5 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"> <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+
+</div>
