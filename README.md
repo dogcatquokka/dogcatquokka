@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br /><br /><br />
 
 ### Hi there 👋
-### 👋 Welcome to my GitHub profile! s
+### 👋 Welcome to my GitHub profile! 
 
  
   <br/>
